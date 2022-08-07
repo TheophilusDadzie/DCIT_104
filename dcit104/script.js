@@ -9,7 +9,7 @@
 // 2. find the average of them
 
 let even_numbers = [];
-for (let i = 0; i < 10000; i++) {
+for (let i = 1; i < 10000; i++) {
     if(i % 2 == 0)
     {
         even_numbers.push(i);
