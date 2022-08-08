@@ -1,9 +1,4 @@
-// Name: Theophilus Kanatey Dadzie
-// ID: 10961816
-
-
-
-// To find the avg af all even number less than 1000
+// to find the avg af all even number less than 1000
 // 1. find an arry of all even numbers less than 1000
 // 2. Sum them
 // 2. find the average of them
