@@ -1,3 +1,6 @@
+// Name: Theophilus Kanatey Dadzie
+// ID: 10961816
+
 function isPrime(num) {
     // check if number is equal to 1
     if (num === 1) {
